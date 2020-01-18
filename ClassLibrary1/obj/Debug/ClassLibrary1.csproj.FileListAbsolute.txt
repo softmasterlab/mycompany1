@@ -1,0 +1,10 @@
+D:\Temp\Домашки\0801\MyCompany\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Temp\Домашки\0801\MyCompany\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Temp\Домашки\0801\MyCompany\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Temp\Домашки\0801\MyCompany\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Temp\Домашки\0801\MyCompany\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\Users\student\Downloads\CSharp\MyCompany\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\student\Downloads\CSharp\MyCompany\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\student\Downloads\CSharp\MyCompany\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\Users\student\Downloads\CSharp\MyCompany\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\student\Downloads\CSharp\MyCompany\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
